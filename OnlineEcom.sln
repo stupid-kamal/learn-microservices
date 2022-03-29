@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{6381DFA3-D8BB-464D-A2D2-40898B30D33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineECom.Web", "OnlineECom.Web\OnlineECom.Web.csproj", "{8BCA11A9-71CC-40C2-8BF4-A7C132D5FF06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{22269214-E266-4782-99E9-20EFCA7EB40A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineEcom.Services.Product", "OnlineEcom.Services.Product\OnlineEcom.Services.Product.csproj", "{BB262726-B583-481D-A321-F1C62B7497E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCA11A9-71CC-40C2-8BF4-A7C132D5FF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCA11A9-71CC-40C2-8BF4-A7C132D5FF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCA11A9-71CC-40C2-8BF4-A7C132D5FF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCA11A9-71CC-40C2-8BF4-A7C132D5FF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB262726-B583-481D-A321-F1C62B7497E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB262726-B583-481D-A321-F1C62B7497E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB262726-B583-481D-A321-F1C62B7497E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB262726-B583-481D-A321-F1C62B7497E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B746E35-F555-4964-931A-0CD35BE01E45}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8BCA11A9-71CC-40C2-8BF4-A7C132D5FF06} = {6381DFA3-D8BB-464D-A2D2-40898B30D33E}
+		{BB262726-B583-481D-A321-F1C62B7497E8} = {22269214-E266-4782-99E9-20EFCA7EB40A}
+	EndGlobalSection
+EndGlobal

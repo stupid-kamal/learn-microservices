@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{BB262726-B583-481D-A321-F1C62B7497E8}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Services.OnlineEcom.Services.Product FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.FrontEnd.OnlineECom.Web PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
